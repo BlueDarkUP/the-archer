@@ -6,6 +6,7 @@
 
 一款为机器人竞赛设计的交互式2D场地模拟器，能够实时计算并可视化考虑了空气阻力和载具运动的发射方案。
 
+<img width="1917" height="1109" alt="image" src="https://github.com/user-attachments/assets/6cea0299-b5d6-4f25-97a9-5de167d8d1e9" />
 
 ## 简介
 
