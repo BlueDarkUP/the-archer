@@ -55,16 +55,7 @@
     ```
 
 2.  **安装依赖库**
-    项目依赖于 `Numpy`, `Matplotlib` 和 `Pillow`。建议创建一个 `requirements.txt` 文件来管理它们。
-
-    **requirements.txt:**
-    ```
-    numpy
-    matplotlib
-    Pillow
-    ```
-
-    然后通过 pip 安装：
+    项目依赖于 `Numpy`, `Matplotlib` 和 `Pillow`。
     ```bash
     pip install -r requirements.txt
     ```
@@ -73,7 +64,6 @@
     程序会尝试加载名为 `ttt.jpg` 的场地背景图片。请确保该图片与主程序文件在同一目录下。如果找不到该图片，程序会以纯白背景运行。
 
 4.  **运行程序**
-    假设您的主文件名为 `main.py`：
     ```bash
     python main.py
     ```
